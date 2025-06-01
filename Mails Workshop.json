@@ -13,8 +13,7 @@
   "apps": [
     {
       "name": "YouTube Plus (YTLite)",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "marketplaceID": "",
+      "bundleIdentifier": "com.google.ios.youtubeplus",
       "developerName": "dayanch96",
       "subtitle": "Built & hosted by Mail222",
       "localizedDescription": "Tweaked YouTube from dayanch96/YTLite. Return YouTube Dislikes DISABLED on this IPA.",
@@ -23,18 +22,24 @@
       "category": "entertainment",
       "screenshots": [
         "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr1.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr2.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr3.jpg",
         "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr4.jpg",
-        "https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/scr5.jpg"
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr5.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr6.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr7.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr8.jpg",
+        "https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/scr9.jpg"
       ],
       "versions": [
         {
           "downloadURL": "https://www.dropbox.com/scl/fi/vd300mgebzopmputgfym9/YouTube-Plus-5.2b1.ipa?rlkey=y9dtve0l8o07297fhfzq1dsdr&st=w6ypfm2n&dl=1",
-          "size": 121400000,
-          "version": "20.21.6",
+          "size": 121420967,
+          "version": "20.21.06",
           "buildVersion": "5.2b1",
           "date": "2025-05-28T18:00:00-06:00",
           "localizedDescription": "20.21.6 YouTube IPA\n5.2b1 YTLite tweak",
-          "minOSVersion": null
+          "minOSVersion": "15.0",
         }
       ],
       "appPermissions": {
@@ -65,7 +70,6 @@
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created."
         }
       },
-      "patreon": {}
     }
   ],
   "news": [
@@ -77,7 +81,7 @@
       "tintColor": "#992458",
       "notify": false,
       "url": "https://github.com/dayanch96/YTLite?tab=readme-ov-file",
-      "appID": "com.google.ios.youtube"
+      "appID": "com.google.ios.youtubeplus"
     }
   ]
 }
