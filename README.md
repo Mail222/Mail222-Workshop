@@ -10,18 +10,21 @@
 
 <p align="center">
   <!-- AltStore Badge -->
-  <a href="altstore://source/?url=https://raw.githubusercontent.com/Mail222/Mail222-Workshop/main/Mails%20Workshop.json">
+  <a href="altstore://source?url=https://raw.githubusercontent.com/Mail222/Mail222-Workshop/main/Mails%20Workshop.json">
     <img src="https://img.shields.io/badge/Add_to_AltStore-000000?style=for-the-badge&logo=altstore" alt="Add to AltStore">
   </a>
+  
   <!-- SideStore Badge -->
-  <a href="sidestore://source/?url=https://raw.githubusercontent.com/Mail222/Mail222-Workshop/main/Mails%20Workshop.json">
+  <a href="sidestore://source?url=https://raw.githubusercontent.com/Mail222/Mail222-Workshop/main/Mails%20Workshop.json">
     <img src="https://img.shields.io/badge/Add_to_SideStore-00A4FF?style=for-the-badge" alt="Add to SideStore">
   </a>
+  
   <!-- Copy URL Badge -->
-  <a href="#" onclick="navigator.clipboard.writeText('https://raw.githubusercontent.com/Mail222/Mail222-Workshop/main/Mails%20Workshop.json')">
+  <a href="https://raw.githubusercontent.com/Mail222/Mail222-Workshop/main/Mails%20Workshop.json" target="_blank">
     <img src="https://img.shields.io/badge/Copy_Repo_URL-8A2BE2?style=for-the-badge&logo=clipboard" alt="Copy Repo URL">
   </a>
 </p>
+
 
 ## 📦 Latest Releases
 
