@@ -10,12 +10,12 @@
 
 <p align="center">
   <!-- AltStore Badge -->
-  <a href="https://mail222.github.io/Mail222-Workshop/redirect-altstore.html" target="_blank" rel="noopener">
+  <a href="https://mail222.github.io/Mail222-Workshop/redirect%E2%80%90altstore.html" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Add_to_AltStore-000000?style=for-the-badge&logo=altstore" alt="Add to AltStore">
   </a>
   
   <!-- SideStore Badge -->
-  <a href="https://mail222.github.io/Mail222-Workshop/redirect-sidestore.html" target="_blank" rel="noopener">
+  <a href="https://mail222.github.io/Mail222-Workshop/redirect%E2%80%90sidestore.html" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Add_to_SideStore-00A4FF?style=for-the-badge" alt="Add to SideStore">
   </a>
   
