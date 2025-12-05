@@ -30,7 +30,7 @@
 
 | App | Version | Build | Updated | Status |
 |-----|---------|-------|---------|--------|
-| [YouTube Plus (YTLite)](https://github.com/dayanch96/YTLite) | 20.21.6 | 5.2b1 | May 28, 2025 | 🚧 |
+| [YouTube Plus (YTLite)](https://github.com/dayanch96/YTLite) | 20.47.3 | 5.2b4 | Dec 5, 2025 | ✅ |
 
 ## 🏁 Emoji Guide
 
