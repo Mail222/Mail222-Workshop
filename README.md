@@ -45,7 +45,7 @@
 ## 📺 YouTube Plus (YTLite) Details
 
 - **Source**: decrypt.day, [dayanch96/YTLite](https://github.com/dayanch96/YTLite)
-- **Last Updated**: May 28, 2025 (App), Mar 29, 2025 (tweak) 
+- **Last Updated**: Nov 24, 2025 (App), Nov 4, 2025 (tweak) 
 - **Features**: 
   - Built from YTLite project
   - Return YouTube Dislikes **disabled** in this build
